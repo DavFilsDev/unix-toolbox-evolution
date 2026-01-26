@@ -220,5 +220,3 @@ timeline
 ---
 
 **"The Unix philosophy is to write programs that do one thing and do it well."** – This repository is my journey to embody that philosophy through practical, evolving tools.
-
-*Start simple, evolve steadily, build a toolbox that grows with you.* 🛠️
