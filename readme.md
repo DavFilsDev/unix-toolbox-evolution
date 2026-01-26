@@ -13,31 +13,31 @@ This repository documents my evolution from writing basic Bash one-liners to dev
 
 ## 🗺️ Evolution Path
 
-### **Level 1: Shell Basics** 🐣
+### **Level 1: Shell Basics**
 *Basic automation and file management*
 - Simple file operations
 - System information scripts
 - Basic text processing
 
-### **Level 2: Scripting Logic** 🐥
+### **Level 2: Scripting Logic**
 *Useful utilities with error handling*
 - Backup systems
 - Process monitoring
 - Configuration management
 
-### **Level 3: C Foundations** 🐔
+### **Level 3: C Foundations**
 *System programming introduction*
 - File analysis tools
 - Process information
 - Memory usage monitors
 
-### **Level 4: Integration** 🦅
+### **Level 4: Integration**
 *Combining Bash and C for efficiency*
 - Performance monitors
 - System health dashboards
 - Automated maintenance tools
 
-### **Level 5: Advanced Toolbox** 🚀
+### **Level 5: Advanced Toolbox**
 *Production-ready system tools*
 - Security scanners
 - Network monitors
