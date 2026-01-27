@@ -12,7 +12,8 @@ if [ "$user_answer" = "y" ]; then
     echo "Cleaning files in /tmp (older than 7 days)..."
     
     # Remove files older than 7 days from /tmp
-    find /tmp -type f -mtime +7 -delete
+    # 2>/dev/null hides permission errors
+    find /tmp -type f -mtime +7 -delete 2>/dev/null
     
     echo "Cleanup completed!"
 else
