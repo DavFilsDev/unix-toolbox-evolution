@@ -1,6 +1,17 @@
 #!/bin/bash
 # cleanmytemp.sh - Basic file cleaner
 # Level 1 - Project 1
+# 
+# Description: Cleans temporary files from /tmp and user cache
+# Usage: ./cleanmytemp.sh
+# Author: [Your Name]
+# Date: $(date +%Y-%m-%d)
+#
+# Features:
+# 1. Cleans files older than 7 days in /tmp
+# 2. Cleans user cache directory
+# 3. Shows disk usage before cleaning
+# 4. Asks for user confirmati
 
 echo "     SIMPLE FILE CLEANER"
 echo ""
@@ -17,7 +28,12 @@ if [ "$user_answer" = "y" ] || [ "$user_answer" = "Y" ]; then
     echo ""
     echo " Cleaning files in /tmp (older than 7 days)..."
     
-    # Remove files older than 7 days from /tmp
+    # find: search for files
+    # /tmp: directory to search
+    # -type f: only regular files (not directories)
+    # -mtime +7: modified more than 7 days ago
+    # -delete: remove found files
+    # 2>/dev/null: hide permission denied errors
     find /tmp -type f -mtime +7 -delete 2>/dev/null
     
     echo " Cleaning user cache..."
