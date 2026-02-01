@@ -51,35 +51,31 @@ unix-toolbox-evolution/
 ├── level-1-shell-basics/          # Beginner Bash scripts
 │   ├── file-cleaner/             # Simple temp file cleaner
 │   ├── system-info/              # Basic system information
-│   ├── text-processor/           # AWK/SED examples
-│   └── README.md                 # Level-specific documentation
+│   └── text-processor/           # AWK/SED examples
 │
 ├── level-2-scripting-logic/      # Intermediate utilities
 │   ├── backup-manager/           # Automated backup system
 │   ├── process-watcher/          # Process monitoring tool
-│   ├── config-manager/           # Dotfile management
-│   └── README.md
+│   └── config-manager/           # Dotfile management
 │
 ├── level-3-c-foundations/        # C system programming
 │   ├── file-analyzer/            # File statistics in C
 │   ├── memory-monitor/           # RAM usage tool
-│   ├── process-lister/           # ps-like utility
-│   └── README.md
+│   └── process-lister/           # ps-like utility
 │
 ├── level-4-integration/          # Bash + C projects
 │   ├── system-dashboard/         # Combined monitoring tool
 │   ├── performance-logger/       # System metrics collector
-│   ├── auto-maintenance/         # Smart cleanup system
-│   └── README.md
+│   └── auto-maintenance/         # Smart cleanup system
 │
 ├── level-5-advanced-toolbox/     # Complex system tools
 │   ├── security-scanner/         # File integrity checker
 │   ├── network-monitor/          # Connection watcher
-│   ├── custom-commands/          # Enhanced Unix utilities
-│   └── README.md
+│   └── custom-commands/          # Enhanced Unix utilities
 │
 ├── playground/                   # Experiments and tests
 ├── docs/                         # Learning notes and references
+├── README.md
 ├── templates/                    # Starter templates
 └── .evolution-log               # Personal progress tracker
 ```
@@ -89,7 +85,7 @@ unix-toolbox-evolution/
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/unix-toolbox-evolution.git
+git clone https://github.com/DavFilsDev/unix-toolbox-evolution.git
 cd unix-toolbox-evolution
 
 # Start with Level 1
