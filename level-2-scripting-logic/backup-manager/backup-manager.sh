@@ -33,9 +33,9 @@ tar -czf "$BACKUP_DIR/$BACKUP_FILE" "$SOURCE_DIR" 2>/dev/null
 
 # Check backup result
 if [[ $? -eq 0 ]]; then
-    echo "Backup completed successfully ✅"
+    echo "Backup completed successfully "
 else
-    echo "Backup failed ❌"
+    echo "Backup failed "
     exit 1
 fi
 
