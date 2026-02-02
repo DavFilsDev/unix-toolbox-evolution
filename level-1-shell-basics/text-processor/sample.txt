@@ -1,0 +1,5 @@
+Alice,24,Developer
+Bob,30,System Admin
+Claire,28,Data Analyst
+David,22,Student
+Emma,35,Project Manager
