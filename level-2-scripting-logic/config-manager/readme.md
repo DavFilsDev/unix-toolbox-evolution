@@ -1,4 +1,3 @@
-# File: level-2-scripting-logic/config-manager/README.md
 # Config Manager Documentation (Dotfiles)
 
 ## Overview
