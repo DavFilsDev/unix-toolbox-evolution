@@ -1,4 +1,3 @@
-# File: level-2-scripting-logic/process-watcher/README.md
 # Process Watcher Documentation
 
 ## Overview
