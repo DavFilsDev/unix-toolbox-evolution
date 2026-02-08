@@ -1,4 +1,3 @@
-# File: level-1-shell-basics/file-cleaner/README.md
 # File Cleaner Documentation
 
 ## Overview
