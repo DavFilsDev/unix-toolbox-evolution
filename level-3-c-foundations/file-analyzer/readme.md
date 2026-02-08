@@ -1,4 +1,3 @@
-# File: level-3-c-foundations/file-analyzer/README.md
 # File Analyzer (C System Programming)
 
 ## Overview
