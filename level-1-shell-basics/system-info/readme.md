@@ -1,5 +1,3 @@
-
-# File: level-1-shell-basics/system-info/README.md
 # System Info Script Documentation
 
 ## Overview

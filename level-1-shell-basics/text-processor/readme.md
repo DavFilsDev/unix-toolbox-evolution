@@ -1,4 +1,3 @@
-# File: level-1-shell-basics/text-processor/README.md
 # Text Processor Documentation (AWK & SED)
 
 ## Overview
