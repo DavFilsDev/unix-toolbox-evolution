@@ -7,6 +7,6 @@ int main() {
     clean_temp_files();
     clean_logs();
     check_disk_space();
-
+    
     return 0;
 }
