@@ -152,14 +152,6 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
-
-**David RATIANDRAIBE**
-Cybersecurity & AI-Oriented Engineer (Student)
-Madagascar 🇲🇬
-
----
-
 ##  Why This Project Matters
 
 File integrity monitoring is used in:
